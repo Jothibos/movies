@@ -1,4 +1,4 @@
- import React, { useState } from "react";
+  import React, { useState } from "react";
  import { FormControl, Button } from "react-bootstrap";
 
  const SearchBar = ({ onSearch }) => {

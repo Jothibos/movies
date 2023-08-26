@@ -27,6 +27,8 @@
                <NavDropdown title="Account" id="account-dropdown">
                  <NavDropdown.Item href="/login">Login</NavDropdown.Item>
                  <NavDropdown.Item href="/signup">Signup</NavDropdown.Item>
+                 {/* Add the profile link here */}
+                 <NavDropdown.Item href="/profile">Profile</NavDropdown.Item>
                </NavDropdown>
                <SearchBar onSearch={onSearch} />
              </Nav>

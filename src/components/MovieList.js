@@ -1,7 +1,6 @@
  import React from "react";
  import { Container, Row, Col } from "react-bootstrap";
  import MovieCard from "./MovieCard";
- import sampleMoviesData from "../data/sampleMoviesData";
 
  const MovieList = ({ movies }) => {
    return (
