@@ -236,7 +236,7 @@ form label {
   color: #333;
 }
 /* login.css */
-/* Styling for form inputs */
+/* Styling for form inputs
 form input[type="email"],
 form input[type="password"] {
   width: 100%;
@@ -254,7 +254,7 @@ form input:focus {
 }
 
 /* Styling for the Login button */
-form button[type="submit"] {
+/* form button[type="submit"] {
   padding: 10px 20px;
   background-color: #007bff;
   border: none;
@@ -263,9 +263,9 @@ form button[type="submit"] {
   font-weight: bold;
   cursor: pointer;
   transition: background-color 0.3s;
-}
+} */
 
-form button[type="submit"]:hover {
+/* form button[type="submit"]:hover {
   background-color: #0056b3;
 }
 .centered-form {
@@ -274,10 +274,10 @@ form button[type="submit"]:hover {
   align-items: center;
   justify-content: center;
   height: 100vh;
-}
+} */ 
 
 /* profile.css */
-.profile {
+/* .profile {
   padding: 40px;
 }
 
@@ -290,8 +290,8 @@ form button[type="submit"]:hover {
   justify-content: center;
   align-items: center;
   margin-bottom: 20px;
-}
-
+} */
+/* 
 .profile-photo img {
   max-width: 100%;
   height: auto;
@@ -304,8 +304,8 @@ form button[type="submit"]:hover {
 }
 
 /* Media query for responsiveness */
-@media (max-width: 767px) {
+/* @media (max-width: 767px) {
   .profile {
     padding: 20px;
   }
-}
+/* } */  
